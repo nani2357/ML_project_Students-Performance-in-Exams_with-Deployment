@@ -1,2 +1,2 @@
-# ML_project_Students-Performance-in-Exams_with-Deployment
+# Student Performance Indicator
 To understand the influence of the parents background, test preparation etc on students performance
