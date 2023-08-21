@@ -86,11 +86,11 @@ The trained model has been deployed using Flask, making it accessible for real-t
    git clone https://github.com/nani2357/ML_project_Students-Performance-in-Exams_with-Deployment.git
 
 ## Install the Required Packages:
-```sh
+
 pip install -r requirements.txt
 
 ## Usage
-```sh
+
 python app.py
 
 ## License
