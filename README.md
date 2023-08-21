@@ -84,6 +84,7 @@ The trained model has been deployed using Flask, making it accessible for real-t
 1. Clone the repository:
    ```sh
    git clone https://github.com/nani2357/ML_project_Students-Performance-in-Exams_with-Deployment.git
+   ```
 
 ## Install the Required Packages:
 
