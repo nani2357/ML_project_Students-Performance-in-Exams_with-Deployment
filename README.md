@@ -87,14 +87,15 @@ The trained model has been deployed using Flask, making it accessible for real-t
    ```
 
 ## Install the Required Packages:
-
+```
 pip install -r requirements.txt
-
+```
 ## Usage
-
+```
 python app.py
-
+```
 ## License
+
 This project is licensed under the MIT License.
 
 ## Contact
